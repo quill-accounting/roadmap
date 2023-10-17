@@ -1,7 +1,7 @@
 # Quill public roadmap
 
 :sparkle: View the
-[official public product roadmap](https://github.com/orgs/quill-accounting/projects/1)[^1]
+[official public product roadmap](https://github.com/orgs/quill-accounting/projects/2)[^1]
 
 Our product roadmap is where you can learn about what features we're working on,
 what stage they're in, and when we expect to bring them to you. Have any
